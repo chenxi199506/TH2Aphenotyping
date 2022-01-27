@@ -1,0 +1,18 @@
+Package: TH2Aphenotyping
+Title: Identify TH2A cells in the scRNA data
+Version: 0.0.1
+Authors@R: c(
+    person("Ming", "Chu", email = "famous@bjmu.edu.com", role = "cre"),
+    person("Xi", "Chen", email = "chenxi199506@126.com", role = "aut"))
+Description: This package is aim to identified the TH2A cells based on the single-cell sequencing data.
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    e1071,
+    magrittr
+Depends: 
+    R (>= 2.10),
+    tidyverse
