@@ -2,6 +2,7 @@
 # TH2Aphenotyping
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/chenxi199506/TH2Aphenotyping/workflows/R-CMD-check/badge.svg)](https://github.com/chenxi199506/TH2Aphenotyping/actions)
 <!-- badges: end -->
 
 The goal of TH2Aphenotyping is to ...
