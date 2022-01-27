@@ -1,8 +1,9 @@
-
 # TH2Aphenotyping
 
 <!-- badges: start -->
+
 [![R-CMD-check](https://github.com/chenxi199506/TH2Aphenotyping/workflows/R-CMD-check/badge.svg)](https://github.com/chenxi199506/TH2Aphenotyping/actions)
+
 <!-- badges: end -->
 
 The goal of TH2Aphenotyping is to ...
@@ -23,4 +24,3 @@ This is a basic example which shows you how to solve a common problem:
 library(TH2Aphenotyping)
 ## basic example code
 ```
-
